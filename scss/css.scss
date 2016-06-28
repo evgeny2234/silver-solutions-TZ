@@ -168,7 +168,8 @@ main {
 				}
 			}
 			> .right_block {
-				border-bottom: linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+				border-bottom: 2px solid #898989;
+				border-width: 80%;
 				> p {
 					font-family: RobotoMedium;
 					font-size:  1.8em;
@@ -370,7 +371,7 @@ footer {
 		margin-right: 15px;
 		border-radius: 12px;
 		}
-		> .link_vk {
+		> .link_tw {
 			float: right;
 			width: 35px;
 			height: 35px;	
